@@ -1,6 +1,3 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Flash Chat ⚡️
 
 This is a simple Group Chat Mobile App built with Flutter & Firebase Cloud.
